@@ -1,0 +1,5 @@
+Credentials cache: API:FF790B13-DEDB-473E-BD91-C3C545FB220A
+        Principal: zyacoubi@1337.MA
+
+  Issued                Expires               Principal
+Aug  2 13:30:40 2021  Aug  2 23:30:40 2021  krbtgt/1337.MA@1337.MA
